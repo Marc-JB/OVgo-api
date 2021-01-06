@@ -29,7 +29,7 @@
     "dependencies": {
         "@koa/router": "^9.1.0",
         "@peregrine/koa-with-decorators": "^0.1.1",
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "dotenv": "^8.2.0",
         "koa": "^2.13.0",
         "koa-bodyparser": "^4.3.0",
